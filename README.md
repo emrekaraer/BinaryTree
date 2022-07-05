@@ -12,13 +12,13 @@ Root'u 4 olarak ele alırsak solunda 0 1 2 3 bulunur.Sağ tarafında ise 5 6 7 8
 
                                        4
                                      /  / \
-                                    3   5  6
-                                   / \      \
-                                  1   2      7
-                                 /          / \
-                                0          8   9
-                                
-                                
+                                    3   6  8
+                                   /   /  / \
+                                  2   5  7  9
+                                 /       
+                                1       
+                               /
+                              0 
 Binary Tree bu şekilde yazılabilir. 
 
 
