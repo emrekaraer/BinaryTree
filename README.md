@@ -1,1 +1,27 @@
 # BinaryTree
+
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+
+İlk başta bunları sıralı haline getiriyoruz.
+[0, 1, 2 , 3, 4, 5, 6, 7, 8, 9]
+
+Root'u 4 olarak ele alırsak solunda 0 1 2 3 bulunur.Sağ tarafında ise 5 6 7 8 9 bulunur.Ve bu sayılar sol tarafa küçülerek sağ tarafta büyüyerek devam eder.
+
+
+                                       4
+                                     /  / \
+                                    3   5  6
+                                   / \      \
+                                  1   2      7
+                                 /          / \
+                                0          8   9
+                                
+                                
+Binary Tree bu şekilde yazılabilir. 
+
+
+
+
+www.patika.dev 
